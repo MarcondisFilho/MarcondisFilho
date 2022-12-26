@@ -5,7 +5,7 @@
 • 🌱 Aprendendo tecnologias voltadas para o desenvolvimento FullStack.
 
 
-![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=radical)
+![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=dracula)
 
 
 
