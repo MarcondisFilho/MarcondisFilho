@@ -7,7 +7,7 @@
 
 ![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=dracula)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcondisFilho&layout=compact)](https://github.com/MarcondisFilho/github-readme-stats)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcondis_filho/)
