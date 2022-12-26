@@ -1,4 +1,4 @@
-###• 👋 Olá, me chamo Marcondis Filho.
+### • 👋 Olá, me chamo Marcondis Filho.
 
 • ✍️ Atualmente focado no meu desenvolvimento pessoal.
 
