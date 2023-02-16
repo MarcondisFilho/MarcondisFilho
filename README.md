@@ -1,11 +1,11 @@
-##  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre Mim
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
 
-• 👋 Olá, me chamo Marcondis Filho.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+me+chamo+Marcondis+Filho+%F0%9F%91%8B%F0%9F%8F%BB;Atualmente+focado+no+meu+desenvolvimento+pessoal+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Aprendendo+tecnologias+voltadas+para+o+desenvolvimento+Web+Mobile+%F0%9F%87%AE%F0%9F%87%B3" alt="Marcondis FIlho" width="650" height="55">
 
-• ✍️ Atualmente focado no meu desenvolvimento pessoal.
-
-• 🔭 Aprendendo tecnologias voltadas para o desenvolvimento Web e Mobile.
-
+<p  align="center">
+<img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif">             
+<br>
 
 ![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=dracula)
 
@@ -29,13 +29,3 @@
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 </div>
-
-
-<p align="center"><img src="animation.gif" width="35%"></p>
-<div style=" font-size: medium; color: #447ff7" align=center>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+me+chamo+Marcondis+Filho+%F0%9F%91%8B%F0%9F%8F%BB;Atualmente+focado+no+meu+desenvolvimento+pessoal+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Aprendendo+tecnologias+voltadas+para+o+desenvolvimento+Web+Mobile+%F0%9F%87%AE%F0%9F%87%B3" alt="Marcondis FIlho" width="650" height="55">
-
-<p  align="center">
-<img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif">             
-<br>
