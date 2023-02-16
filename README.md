@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/MarcondisFilho">
     <img src="https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcondisFIlho&theme=github-dark-blue&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcondisFilho&theme=github-dark-blue&hide_border=true" />
 
 [//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=MarcondisFilho&theme=react-dark" />)
 </a>
@@ -25,6 +25,7 @@
 <br>
 
 </div>
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcondis_filho/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcondis-filho-1b5a85231/)
