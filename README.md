@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+me+chamo+Marcondis+Filho+%F0%9F%91%8B%F0%9F%8F%BB;focado+no+meu+desenvolvimento+pessoal+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Estudando+tecnologias+Web+Mobile+%F0%9F%87%AE%F0%9F%87%B3" alt="Marcondis FIlho" width="650" height="55">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+me+chamo+Marcondis+Filho+%F0%9F%91%8B%F0%9F%8F%BB;Focado+no+meu+desenvolvimento+pessoal+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Estudando+tecnologias+Web+Mobile+%F0%9F%87%AE%F0%9F%87%B3" alt="Marcondis FIlho" width="650" height="55">
 
 <p  align="center">
 <img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif">             
