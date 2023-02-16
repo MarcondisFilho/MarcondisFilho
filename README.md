@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=700&height=55&lines=Olá!+me+chamo+Marcondis+Filho+%F0%9F%91%8B%F0%9F%8F%BB;+Focado+no+meu+desenvolvimento+pessoal+%F0%9F%93%88;Estudando+tecnologias+Web+e+Mobile+%E2%9A%99%EF%B8%8F" alt="Marcondis FIlho" width="650" height="55">
 
 <p  align="center">
-<img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif">             
+<img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif">  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 <br>
 
 ![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=dracula)
