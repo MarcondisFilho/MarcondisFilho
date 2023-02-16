@@ -1,4 +1,4 @@
-## ⚡ Sobre Mim
+## ⚡##  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre Mim
 
 • 👋 Olá, me chamo Marcondis Filho.
 
