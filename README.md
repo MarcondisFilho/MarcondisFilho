@@ -9,8 +9,6 @@
 
 ![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcondisFilho&layout=compact)](https://github.com/MarcondisFilho/github-readme-stats)
-
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcondisFilho&theme=dracula&hide_langs_below=1" />
 </a>
