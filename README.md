@@ -4,7 +4,7 @@
 
 • ✍️ Atualmente focado no meu desenvolvimento pessoal.
 
-• 🌱 Aprendendo tecnologias voltadas para o desenvolvimento Web e Mobile.
+• 🔭 Aprendendo tecnologias voltadas para o desenvolvimento Web e Mobile.
 
 
 ![Marcondis Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcondisFilho&show_icons=true&theme=dracula)
