@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 <br>
 
-![](https://komarev.com/ghpvc/?username=MarcondisFilho&color=447ff7&label=Visitor+count)
+
 
 <p align="center">
   <a href="https://github.com/MarcondisFilho">
